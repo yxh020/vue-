@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <h1>App页面</h1>
-    <router-view></router-view>
-  </div>
+  <h1>主页</h1>
 </template>
 
 <script>
