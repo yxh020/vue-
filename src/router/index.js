@@ -4,8 +4,7 @@ import VueRouter from 'vue-router'
 //require.context('路径',布尔值(true表示查找同级文件的子级),正则)  ：解决import
 let routerList = []
 function importAll(r) {
-    console.log(r);
-    console.log(r.keys());
+    //console.log(r.keys());
     r.keys().forEach( i => {
         routerList.push(r(i).default)
     })

@@ -4,10 +4,16 @@
 
 <script>
 export default {
-
+  data(){
+    return{
+      
+    }
+  },
+  created(){
+    console.log('home组件');
+  }
 }
 </script>
-
 <style>
 
 </style>
