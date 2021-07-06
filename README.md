@@ -1,24 +1,9 @@
-# demo
+### 封装路由
 
-## Project setup
-```
-npm install
-```
+### 主路由动态引入
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 封装axios
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 权限管理
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 全局组件的动态引入
